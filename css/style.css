@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    min-height: 100px;
+    background-color: lightblue;
+    margin: 0;
+}
+nav{
+    background-color: darkblue;
+}
+
+main{
+    margin: 0 auto;
+    width: 1080px;
+}
+
+footer{
+    min-height: 75px;
+    background-color: darkblue;
+    color: white;
+}
